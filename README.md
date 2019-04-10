@@ -1,5 +1,5 @@
 # zap-juice
-A docker composer file for easy install and use of owasp's Zap proxy and juice shop the vulnerable webapp.
+A docker compose file for easy install of OWASPs ZAP proxy and Juice Shop the vulnerable webapp.
 
 - Clone the respository 
 - Go into the zap-juice directory
